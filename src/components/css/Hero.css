@@ -1,0 +1,10 @@
+.hero {
+	display: flex;
+	flex-direction: column;
+}
+
+.hero > img {
+	align-self: center;
+	padding: 20px;
+	width: 420px;
+}

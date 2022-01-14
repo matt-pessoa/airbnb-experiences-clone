@@ -1,5 +1,6 @@
 import React from "react";
 import photoGrid from "../images/photo-grid.png";
+import "./css/Hero.css";
 
 function Hero() {
 	return (
