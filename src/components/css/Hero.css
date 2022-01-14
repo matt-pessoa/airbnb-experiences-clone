@@ -8,3 +8,19 @@
 	padding: 20px;
 	width: 420px;
 }
+
+.hero > h1 {
+	font-size: 36px;
+	font-weight: 600;
+	margin: 0;
+}
+
+.hero-p-container {
+	width: 320px;
+}
+
+.hero-p-container > p {
+	color: #222222;
+	font-size: 16px;
+	font-weight: 300;
+}
