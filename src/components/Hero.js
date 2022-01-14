@@ -5,6 +5,7 @@ function Hero() {
 	return (
 		<section className="hero">
 			<img src={photoGrid} alt="Collection of AirBnb experiences" />
+			<h1>Online Experiences</h1>
 		</section>
 	);
 }
